@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myntra-clone/static/css/main.e3a27af3.css",
+    "main.js": "/myntra-clone/static/js/main.be564a76.js",
+    "static/js/592.9488c41f.chunk.js": "/myntra-clone/static/js/592.9488c41f.chunk.js",
+    "index.html": "/myntra-clone/index.html",
+    "main.e3a27af3.css.map": "/myntra-clone/static/css/main.e3a27af3.css.map",
+    "main.be564a76.js.map": "/myntra-clone/static/js/main.be564a76.js.map",
+    "592.9488c41f.chunk.js.map": "/myntra-clone/static/js/592.9488c41f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a27af3.css",
+    "static/js/main.be564a76.js"
+  ]
+}
